@@ -1,3 +1,3 @@
 # BoogMacher
 
-Developed with Unreal Engine 5
+College project game developed in Unreal Engine 5.
